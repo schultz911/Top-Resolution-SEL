@@ -27,4 +27,4 @@ You should use the below JSON as the import URL for the badges for best results.
 https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/presets/mono-bgb-sep-nodv.json
 ```
 
-![Preview](./formatterpreview.png)
+![Preview](./preview.webp)
